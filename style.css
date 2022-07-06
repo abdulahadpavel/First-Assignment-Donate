@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-page{
+    background-image: url(images/donation6.png);
+    background-size: cover;
+    padding: 200px 100px;
+} 
+
+
+#cover-heading{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: inherit;
+}
+#cover-heading-two{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: inherit;
+
+}
