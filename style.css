@@ -188,3 +188,25 @@ hr{
     padding: 5px 30px;
 
 }
+
+footer{
+    background: black;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#font-design{
+    color: rgb(104, 53, 53);
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: inherit;    
+}
+footer p{
+    color: white;
+}
