@@ -165,3 +165,26 @@ hr{
     
 
 }
+.fifth-page{
+    margin-bottom: 100px;
+}
+
+.box-model{
+    display: flex;
+    position: absolute;
+    left: 40%;
+}
+
+#email{
+ background-color: grey;
+ padding: 5px 50px;
+ padding-right: 100px;
+ text-align: left;
+
+}
+
+#subscribe{
+    background-color: orangered;
+    padding: 5px 30px;
+
+}
