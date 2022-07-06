@@ -22,3 +22,63 @@ body{
     font-style: inherit;
 
 }
+
+.header-text{
+    color: black;
+    font-size: large;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-text a{
+    background-color: orangered;
+    padding: 5px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+
+.second-page{
+    background-color: white;
+    margin: 100px;
+}
+.number{
+    color: black;
+    font-size: large;
+    text-align: center;
+    padding-left: 3%;
+    margin-top: 60px;
+}
+#number1{
+    margin: 50px;
+    font-weight: 800;
+
+}
+#number2{
+    margin: 50px;
+    font-weight: 800;
+    background-color: rgb(240, 180, 159);
+    padding: 30px 15px;
+    border-radius: 3px;
+    border: 2px solid orangered;
+    
+}
+.other-amount-taka{
+
+    color: black;
+    font-size: large;
+    text-align: center;
+    padding-left: 3%;
+    margin-top: 120px;
+
+}
+.other-amount-taka p{
+color: rgb(167, 162, 162);
+}
+hr{
+    margin-bottom: 30px;;
+}
