@@ -129,3 +129,39 @@ hr{
     width: 50px;
     padding: 10px;
 }
+.fourth-page{
+    display: flex;
+    margin: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+   
+}
+.half-width img{
+    width: 100%;
+    height: 100%;
+
+}
+
+ .fourth-page{
+   background-color: antiquewhite;
+   padding bottom: 200px;
+    
+}
+#help{
+    color: brown;
+    font-weight: 900;
+}
+#help-p{
+    font-size: larger;
+    font-weight: 900;
+    padding-top: 50px;
+}
+#help-q{
+    font-size: large;
+    font-weight: 600;   
+    color: rgb(94, 106, 106);
+    
+
+}
