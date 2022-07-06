@@ -82,3 +82,50 @@ color: rgb(167, 162, 162);
 hr{
     margin-bottom: 30px;;
 }
+.donate-now{
+    background-color: orangered;
+    padding: 5px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+
+.box-table{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.box-left{
+    width: 25%;
+    padding-left: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    background-color: rgb(163, 207, 245);
+    bac
+    
+}
+.box-center{
+    width: 25%;
+    padding-left: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    background-color: rgb(244, 244, 193);
+
+}
+.box-right{
+    width: 25%;
+    padding-left: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    background-color: rgb(124, 221, 188);
+}
+#icon{
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
